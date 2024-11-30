@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+*Seja Bem-Vindo / Welcome!!*
+
+![Aprendendo Programação](https://media.discordapp.net/attachments/1214057827769917510/1257506608053751808/89de02db62867c1107fc1562294a2b7d.gif?ex=674c630a&is=674b118a&hm=0be0aaf6e73da0a7e7145cd1f729feb406aba1b156db57ec368d2aac7689e891&=)
 <!--
 **eulipson/eulipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
