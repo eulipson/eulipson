@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 *Seja Bem-Vindo / Welcome!!*
 
