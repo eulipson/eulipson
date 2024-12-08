@@ -2,7 +2,7 @@
 
 *Seja Bem-Vindo / Welcome!!*
 
-![Aprendendo Programação](https://media.discordapp.net/attachments/1214057827769917510/1257506608053751808/89de02db62867c1107fc1562294a2b7d.gif?ex=674c630a&is=674b118a&hm=0be0aaf6e73da0a7e7145cd1f729feb406aba1b156db57ec368d2aac7689e891&=)
+![Aprendendo Programação](https://media.discordapp.net/attachments/1228740686459699304/1315382353224400906/89de02db62867c1107fc1562294a2b7d.gif?ex=675734c7&is=6755e347&hm=87c8647c424b47e350f9061c6d0d7221ccb86a29b2bf9f7e07756e3e3c47b83d&=)
 <!--
 **eulipson/eulipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
